@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://dataiqs.com/api/netease/music/:match*"
+    }
+  ]
+}
